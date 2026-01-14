@@ -23,6 +23,9 @@ A 4-year-old patient presented with a history of recurrent respiratory tract inf
 **Referências Científicas:**
 
 AUSTIN-TSE, Christina A. et al. Best practices for the interpretation and reporting of clinical whole genome sequencing. NPJ genomic medicine, v. 7, n. 1, p. 27, 2022.
+
 RICHARDS, Sue et al. Standards and guidelines for the interpretation of sequence variants: a joint consensus recommendation of the American College of Medical Genetics and Genomics and the Association for Molecular Pathology. Genetics in medicine, v. 17, n. 5, p. 405-423, 2015.​
+
 ROY, Somak et al. Standards and guidelines for validating next-generation sequencing bioinformatics pipelines: a joint recommendation of the Association for Molecular Pathology and the College of American Pathologists. The Journal of Molecular Diagnostics, v. 20, n. 1, p. 4-27, 2018.​
+
 ​SORELLE, Jeffrey A.; WACHSMANN, Megan; CANTAREL, Brandi L. Assembling and validating bioinformatic pipelines for next-generation sequencing clinical assays. Archives of Pathology & Laboratory Medicine, v. 144, n. 9, p. 1118-1130, 2020
